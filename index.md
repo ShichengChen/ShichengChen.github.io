@@ -79,10 +79,5 @@ normalization layer.
     - The encoding is used to condition a WaveNet decoder.
     - More detail on https://github.com/ShichengChen/Audio-Source-Separation
 
-- Machine Learning to Aid Repairers    
-    - Use broken cars symptom; for example, the **engine** has **C type of noise** when the car is **cold**. (engine, C type of noise and cold are three features).
-    - The problem with the car is the **spark plug**. (spark plug is the label).
-    - Use Random Forest, Xgboost, Adaboost and Decision Tree to predict the answers.
-    - Use Bayesian Optimization to tune hyperparameters.
-    - Use Stacked Generalization (Ensemble method) to make the result better.
+
   
