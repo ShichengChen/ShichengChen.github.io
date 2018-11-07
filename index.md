@@ -57,6 +57,8 @@ Ultrasound Images
     - **Shicheng Chen**, Yifeng Zheng, Chengrui Wu, Guorui Sheng, Pierre Roussel, Bruce Denby
     
     - Presentation in a **lecture** session
+ 
+- Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D Convolutional Neural Networks
     - 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
 
     - Chengrui Wu, **Shicheng Chen**, Guorui Sheng, Pierre Roussel, Bruce Denby
