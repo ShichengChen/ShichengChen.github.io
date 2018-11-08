@@ -81,9 +81,3 @@ normalization layer.
     - Use modified WaveNet as a decoder.
     - The encoding is used to condition a WaveNet decoder.
     - More detail on https://github.com/ShichengChen/Audio-Source-Separation
-
-#RESEARCH INTERESTS
-- Machine Learning
-- Deep Learning
-- Computer Vision
-  

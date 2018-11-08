@@ -77,5 +77,4 @@ Ultrasound Images
 # RESEARCH INTERESTS
 - Machine Learning
 - Deep Learning
-- Computer Vision
   
