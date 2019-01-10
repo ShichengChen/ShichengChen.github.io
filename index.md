@@ -54,19 +54,24 @@
 # PUBLICATION
 - Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive
 Ultrasound Images
-    - **Shicheng Chen**, Yifeng Zheng, Chengrui Wu, Guorui Sheng, Pierre Roussel, Bruce Denby
-    
-    - Presentation in a **lecture** session
- 
-    - 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
+	- **Shicheng Chen**, Yifeng Zheng, Chengrui Wu, Guorui Sheng, Pierre Roussel, Bruce Denby
+	- Presentation in a **lecture** session
+	- 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
     
 - Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D Convolutional Neural Networks
     
-
-    - Chengrui Wu, **Shicheng Chen**, Guorui Sheng, Pierre Roussel, Bruce Denby
+	- Chengrui Wu, **Shicheng Chen**, Guorui Sheng, Pierre Roussel, Bruce Denby
+	- Presentation in a **poster** session
+	- 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
     
-    - Presentation in a **poster** session
-    - 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
+- Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features
+	- Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, **Shicheng Chen**, Peilan He
+	- presentation at the SIAM International Conference on Data Mining (SDM19)	
+	- acceptance rate of 22.7%
+	
+- A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing
+	- Dongjun Zhai, An Liu, **Shicheng Chen**, Zhixu Li, and Xiangliang Zhang
+	- 24th International Conference on Database Systems for Advanced Applications (DASFAA 2019)
 
 
 # PROJECT
