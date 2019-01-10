@@ -1,6 +1,6 @@
 # Shicheng Chen
 
-- coder.chen.shi.cheng@gmail.com
+
 - https://github.com/ShichengChen/
 
 # JOB
