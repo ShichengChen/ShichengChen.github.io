@@ -71,6 +71,7 @@ Ultrasound Images
 - A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing
 	- Dongjun Zhai, An Liu, **Shicheng Chen**, Zhixu Li, and Xiangliang Zhang
 	- 24th International Conference on Database Systems for Advanced Applications (DASFAA 2019)
+	- acceptance rate around 22%
 
 
 # PROJECT
