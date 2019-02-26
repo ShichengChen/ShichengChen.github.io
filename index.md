@@ -78,6 +78,11 @@ Ultrasound Images
 - Audio Source Separation
     - Obtain accompaniment and vocals from mix music.
     - More detail on https://github.com/ShichengChen/Audio-Source-Separation
+    
+- Singa, an open-source deep-learning library
+	- make Singa support ONNX
+	- make Singa save %20 GPU memory usage with only 2% extra computation time
+
 
 # RESEARCH INTERESTS
 - Machine Learning
