@@ -81,7 +81,8 @@ Ultrasound Images
     
 - Singa, an open-source deep-learning library
 	- make Singa support ONNX
-	- make Singa save %20 GPU memory usage with only 2% extra computation time
+	- make Singa save %20 GPU memory usage with only 2% extra computation time for resnet, unet and vgg.
+	- make Singa save %17.9 GPU memory usage with only 7% extra computation time for dynamic network(some layers have chance to disappear).
 
 
 # RESEARCH INTERESTS
