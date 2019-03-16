@@ -2,41 +2,41 @@
 
 - https://github.com/ShichengChen/
 
-# JOB
-- Nanyang Technological University
-    - Project Officer
-    - School of Computer Science and Engineering
-    - 10/2017-09/2018
+# WORKING EXPERIENCES
 - National University of Singapore
     - Research Assistant
     - School of Computing
     - 10/2018-now
 
-# EDUCATION
+- Nanyang Technological University
+    - Project Officer
+    - School of Computer Science and Engineering
+    - 10/2017-09/2018
+
+# EDUCATION EXPERIENCES
 - Tianjin University
     - Bachelor of Engineering
     - School of Software Engineering
     - 09/2013-07/2017
-    - GPA: 3.19 / 4.0
 
-# PUBLIC LESSONS
+# ONLINE COURSES
 - Convolutional Neural Networks for Visual Recognition 
     - Stanford University cs231n 
-    - finish all videos and homework
+    - Finish all videos and homework
 - Machine Learning
-    - Stanford University cs229  
-    - finish all videos and homework
+    - Stanford University cs229 
+    - Finish all videos and homework
 - Data Science
     - Harvard University cs109
-    - finish most videos and homework
+    - Finish most videos and homework
 
 # SKILLS
 - C/C++
     - Over 30000 lines:
-    - familiar with OpenCV and STL
+    - Familiar with OpenCV and STL
     - CUDA programming
 - Python
-    - familiar with PyTorch, Pandas, Scikit-learn and NumPy
+    - Familiar with PyTorch, Pandas, Scikit-learn and NumPy
 
 # AWARDS
 - ACM International Collegiate Programming Contest
@@ -50,7 +50,7 @@
 	- Top 415/7084
 	- Hosted by Baidu: 2015
 
-# PUBLICATION
+# PUBLICATIONS
 - Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive
 Ultrasound Images
 	- **Shicheng Chen**, Yifeng Zheng, Chengrui Wu, Guorui Sheng, Pierre Roussel, Bruce Denby
@@ -74,18 +74,17 @@ Ultrasound Images
 	- acceptance rate around 22%
 
 
-# PROJECT
+# PROJECTS
+- Singa, incubated in Apache Foundation, an open-source deep-learning library
+    - Make Singa support ONNX (which is an open format to represent deep learning models backed by Facebook AWS and Microsoft)
+
+- GPU memory management
+    - Achieve Singa %20-30 GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
+    - To the best of our knowledge, we are the first one to try to save memory usage with very little extra computation time.
+    
 - Audio Source Separation
     - Obtain accompaniment and vocals from mix music.
     - More detail on https://github.com/ShichengChen/Audio-Source-Separation
+   
     
-- Singa, an open-source deep-learning library
-	- make Singa support ONNX
-	- make Singa save %20 GPU memory usage with only 2% extra computation time for resnet, unet and vgg.
-	- make Singa save %17.9 GPU memory usage with only 7% extra computation time for dynamic network(some layers have chance to disappear).
 
-
-# RESEARCH INTERESTS
-- Machine Learning
-- Deep Learning
-  
