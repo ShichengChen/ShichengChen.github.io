@@ -77,6 +77,7 @@ Ultrasound Images
 # PROJECTS
 - Singa, incubated in Apache Foundation, an open-source deep-learning library
     - Make Singa support ONNX (which is an open format to represent deep learning models backed by Facebook AWS and Microsoft)
+    - merged pull request(https://github.com/apache/incubator-singa/pull/444)
 
 - GPU memory management
     - Achieve Singa %20-30 GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
