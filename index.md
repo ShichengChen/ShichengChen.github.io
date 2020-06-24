@@ -26,7 +26,7 @@
 # AWARDS
 - Codeforces 
 	- Candidate master (user rate: top %4)
-	- Best contest results: ranking 71 out of 14647(top %0.4)
+	- Best contest result: ranking 71 out of 14647(top %0.4)
 - ACM International Collegiate Programming Contest
 	- Asia Regional Contest 
 	- Shanghai Site: 2014
