@@ -23,12 +23,10 @@
     - School of Computing
     - 12/2019-now
 
-# SKILLS
-- C/C++
-    - solved over 600 problems on various online judge
-    - Familiar with OpenCV and STL
-
 # AWARDS
+- Codeforces 
+	- Candidate master (user rate: top %4)
+	- Best contest results: ranking 71 out of 14647(top %0.4)
 - ACM International Collegiate Programming Contest
 	- Asia Regional Contest 
 	- Shanghai Site: 2014
@@ -36,9 +34,14 @@
 - The Beauty of Programming
 	- Top 250/7764
 	- Hosted by Microsoft: 2015
-- Codeforces 
-	- Candidate master (user rate: top %4)
-	- Best contest results: ranking 71 out of 14647(top %0.4)
+
+# SKILLS
+- C/C++
+    - solved over 600 problems on various online judge
+    - Familiar with OpenCV and STL
+
+
+
 
 # PUBLICATIONS
 - Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive
