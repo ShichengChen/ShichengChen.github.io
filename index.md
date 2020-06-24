@@ -18,25 +18,15 @@
     - Bachelor of Engineering
     - School of Software Engineering
     - 09/2013-07/2017
-
-# ONLINE COURSES
-- Convolutional Neural Networks for Visual Recognition 
-    - Stanford University cs231n 
-    - Finish all videos and homework
-- Machine Learning
-    - Stanford University cs229 
-    - Finish all videos and homework
-- Data Science
-    - Harvard University cs109
-    - Finish most videos and homework
+- National University of Singapore
+    - Master
+    - School of Computing
+    - 12/2019-now
 
 # SKILLS
 - C/C++
-    - Over 30000 lines:
+    - solved over 600 problems on various online judge
     - Familiar with OpenCV and STL
-    - CUDA programming
-- Python
-    - Familiar with PyTorch, Pandas, Scikit-learn and NumPy
 
 # AWARDS
 - ACM International Collegiate Programming Contest
@@ -46,9 +36,9 @@
 - The Beauty of Programming
 	- Top 250/7764
 	- Hosted by Microsoft: 2015
-- Astar Contest
-	- Top 415/7084
-	- Hosted by Baidu: 2015
+- Codeforces 
+	- Candidate master (user rate: top %4)
+	- Best contest results: ranking 71 out of 14647(top %0.4)
 
 # PUBLICATIONS
 - Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive
