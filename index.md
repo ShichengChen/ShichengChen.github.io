@@ -27,6 +27,7 @@
 - Codeforces 
 	- Candidate master (user rate: top %4)
 	- Codeforces Round #652 (Div. 2): official ranking 71 out of 14647(top %0.4)
+	- Codeforces Round #664 (Div. 2): official ranking 38 out of 13064(top %0.2)
 	- Codeforces Round #653 (Div. 3): official ranking 11 out of 11033
 - ACM International Collegiate Programming Contest
 	- Asia Regional Contest 
