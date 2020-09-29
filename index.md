@@ -1,6 +1,4 @@
-# Shicheng Chen Homepage
-
-- https://github.com/ShichengChen/
+# Shicheng Chen
 
 # WORKING EXPERIENCES
 - National University of Singapore
@@ -25,16 +23,20 @@
 
 # AWARDS
 - Codeforces 
-	- Candidate master (user rate: top %4)
-	- Codeforces Round #652 (Div. 2): official ranking 71 out of 14647(top %0.4)
-	- Codeforces Round #664 (Div. 2): official ranking 38 out of 13064(top %0.2)
+	- Candidate master (user rate: top 4%)
+	- Codeforces Round #652 (Div. 2): official ranking 71 out of 14647 (top 0.4%)
+	- Codeforces Round #664 (Div. 2): official ranking 38 out of 13064 (top 0.2%)
 	- Codeforces Round #653 (Div. 3): official ranking 11 out of 11033
+- Google Kick Start
+    - Round C 2020: ranking 588 out of 10104 (top 5.8%)
+- Facebook Hacker Cup 2020 
+    - ranking 1386 out of 32699 (top 4.2%)
 - ACM International Collegiate Programming Contest
 	- Asia Regional Contest 
 	- Shanghai Site: 2014
 	- Bronze Medal
 - The Beauty of Programming
-	- Top 250/7764
+	- ranking 250 out of 7764 (top 3.2%)
 	- Hosted by Microsoft: 2015
 
 # SKILLS
@@ -75,12 +77,14 @@ Ultrasound Images
     - merged pull request(https://github.com/apache/incubator-singa/pull/444)
 
 - GPU memory management
-    - Achieve Singa %20-30 GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
+    - Achieve Singa 20-30% GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
     - To the best of our knowledge, we are the first one to try to save memory usage with very little extra computation time.
     
 - Audio Source Separation
     - Obtain accompaniment and vocals from mix music.
     - More detail on https://github.com/ShichengChen/Audio-Source-Separation
    
-    
+- Multiview Hand Dataset
+    - Obtain hand joints by semi-supervised learning
+    - Our dataset provides depth, color images, and camera parameters.     
 
