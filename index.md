@@ -4,31 +4,35 @@
 - National University of Singapore
     - Research Assistant
     - School of Computing
-    - 10/2018-now
+    - Oct 2018 - Present
 
 - Nanyang Technological University
     - Project Officer
     - School of Computer Science and Engineering
-    - 10/2017-09/2018
+    - Oct 2017 - Sep 2018
+
+- Teaching assistant
+    - Neural Networks and Deep Learning (CS5242)
+    - National University of Singapore
+    - Jan 2021 - May 2021
 
 # EDUCATION EXPERIENCES
 - Tianjin University
     - Bachelor of Engineering
     - School of Software Engineering
-    - 09/2013-07/2017
+    - Sep 2013 - July 2017
 - National University of Singapore
     - Master
     - School of Computing
-    - 12/2019-now
+    - Dec 2019 - Present
 
-# AWARDS
+# AWARDS 
 - Codeforces 
 	- Candidate master (user rate: top 4%)
-	- Codeforces Round #652 (Div. 2): official ranking 71 out of 14647 (top 0.4%)
 	- Codeforces Round #664 (Div. 2): official ranking 38 out of 13064 (top 0.2%)
 	- Codeforces Round #653 (Div. 3): official ranking 11 out of 11033
 - Google Kick Start
-    - Round C 2020: ranking 588 out of 10104 (top 5.8%)
+    - Round A 2021: ranking 479 out of 19850 (top 2.4%)
 - Facebook Hacker Cup 2020 
     - ranking 1386 out of 32699 (top 4.2%)
 - ACM International Collegiate Programming Contest
@@ -40,12 +44,9 @@
 	- Hosted by Microsoft: 2015
 
 # SKILLS
-- C/C++
-    - solved over 600 problems on various online judge
-    - Familiar with OpenCV and STL
-
-
-
+- Competitive programming
+- Machine learning
+    
 
 # PUBLICATIONS
 - Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive
@@ -73,7 +74,7 @@ Ultrasound Images
 
 # PROJECTS
 - Apache SINGA, an open-source deep-learning library
-    - Make Singa support ONNX (which is an open format to represent deep learning models backed by Facebook AWS and Microsoft)
+    - Make Singa support ONNX, an open format to represent deep learning models backed by Facebook, AWS, and Microsoft.
     - merged pull request(https://github.com/apache/incubator-singa/pull/444)
 
 - GPU memory management
@@ -85,6 +86,5 @@ Ultrasound Images
     - More detail on https://github.com/ShichengChen/Audio-Source-Separation
    
 - Multiview Hand Dataset
-    - Obtain hand joints by semi-supervised learning
-    - Our dataset provides depth, color images, and camera parameters.     
-
+    - Annotate the hand pose for the hand dataset by semi-supervised learning.
+    - Our dataset provides hand 3D models, depth, color images, and camera parameters.
