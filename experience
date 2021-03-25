@@ -1,0 +1,16 @@
+We developed Apache SINGA, an open-source deep-learning library, and made Singa support ONNX, an open format representing deep learning models backed by Microsoft, Facebook, and AWS.
+
+We optimized the GPU memory management system for Singa. We achieved Singa 20-30% GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG.
+
+We obtained accompaniment and vocals from mixed music for the audio source separation project.
+
+We made our multiview hand dataset. We annotated the hand pose for the hand dataset by semi-supervised learning. Our dataset provides hand 3D models, depth images, color images, and camera parameters.
+
+
+We made a publication Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features in 2019 presentation at the SIAM International Conference on Data Mining.
+
+
+
+
+
+
