@@ -28,33 +28,30 @@
 
 
 # SKILLS
-- Familiar with C++, Python
-- Have passion for Competitive Programming
+- Familiar with C/C++, Python
+- Proficiency in data structures and algorithms
+- Have great passion for Competitive Programming
+- Machine learning
     
 
 # PUBLICATIONS
-- Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive Ultrasound Images (**Oral**)
+- Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive Ultrasound Images (**Oral**, ICASSP 18)
 	- **Shicheng Chen**, Yifeng Zheng, Chengrui Wu, Guorui Sheng, Pierre Roussel, Bruce Denby
-	- 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
-    
-- Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D Convolutional Neural Networks (**Poster**)
-    
+
+- Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D Convolutional Neural Networks (**Poster**,ICASSP 18)
 	- Chengrui Wu, **Shicheng Chen**, Guorui Sheng, Pierre Roussel, Bruce Denby
-	- 2018 IEEE International Conference on Acoustics, Speech and Signal Processing
-    
-- Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features
+
+- Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features (SDM 19)
 	- Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, **Shicheng Chen**, Peilan He
-	- 2019 presentation at the SIAM International Conference on Data Mining	
 	
-- A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing
+- A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing (DASFAA 19)
 	- Dongjun Zhai, An Liu, **Shicheng Chen**, Zhixu Li, and Xiangliang Zhang
-	- 2019 International Conference on Database Systems for Advanced Applications
 
 # ACCOMPLISHMENTS 
 - Codeforces 
 	- Candidate master (user rate: top 4%)
-	- Codeforces Round #664 (Div. 2): official ranking 38 out of 13064 (top 0.2%)
-	- Codeforces Round #653 (Div. 3): official ranking 11 out of 11033
+	- Codeforces Round #664 (Div. 2): ranking 38 out of 13064 (top 0.2%)
+	- Codeforces Round #653 (Div. 3): ranking 11 out of 11033
 - Google Kick Start
     - Round A 2021: ranking 479 out of 19850 (top 2.4%)
 - ACM International Collegiate Programming Contest
@@ -68,7 +65,7 @@
 - Apache SINGA, an open-source deep-learning library
     - Make Singa support ONNX, an open format to represent deep learning models backed by Facebook, AWS, and Microsoft ([merged pull request](https://github.com/apache/incubator-singa/pull/444))
 
-- GPU memory management
+- [GPU memory management](https://github.com/ShichengChen/ShichengChen.github.io/tree/master/GPU Memory Management for Neural Networks Using Deep Q-Network.pdf)
     - Achieve Singa 20-30% GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
     
 - [Audio Source Separation](https://github.com/ShichengChen/Audio-Source-Separation)
