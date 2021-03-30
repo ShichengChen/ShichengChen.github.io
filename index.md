@@ -53,7 +53,7 @@
 	- Codeforces Round #664 (Div. 2): ranking 38 out of 13064 (top 0.2%)
 	- Codeforces Round #653 (Div. 3): ranking 11 out of 11033
 - Google Kick Start
-    - Round A 2021: ranking 479 out of 19850 (top 2.4%)
+    - Round A 2021: ranking 470 out of 19850 (top 2.3%)
 - ACM International Collegiate Programming Contest
 	- Asia Regional Contest 
 	- Bronze Medal
