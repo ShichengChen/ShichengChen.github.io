@@ -63,10 +63,10 @@
 
 # PROJECTS
 - Apache SINGA, an open-source deep-learning library
-    - Make Singa support ONNX, an open format to represent deep learning models backed by Facebook, AWS, and Microsoft ([merged pull request](https://github.com/apache/incubator-singa/pull/444))
+    - Make SINGA support ONNX, an open format to represent deep learning models backed by Facebook, AWS, and Microsoft ([merged pull request](https://github.com/apache/incubator-singa/pull/444))
 
-- [GPU memory management](https://github.com/ShichengChen/ShichengChen.github.io/tree/master/GPU Memory Management for Neural Networks Using Deep Q-Network.pdf)
-    - Achieve Singa 20-30% GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
+- [GPU memory management](https://github.com/ShichengChen/ShichengChen.github.io/tree/master/GPUMemoryManagementforNeuralNetworksUsingDeepQ-Network.pdf)
+    - Achieve SINGA 20-30% GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
     
 - [Audio Source Separation](https://github.com/ShichengChen/Audio-Source-Separation)
     - Obtain accompaniment and vocals from mixed music.
