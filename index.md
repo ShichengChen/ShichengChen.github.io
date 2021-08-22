@@ -47,6 +47,9 @@
 - A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing (DASFAA 19)
 	- Dongjun Zhai, An Liu, **Shicheng Chen**, Zhixu Li, and Xiangliang Zhang
 
+- SemiHand: Semi-supervised Hand Pose Estimation with Consistency (ICCV 21)
+	- Linlin Yang, **Shicheng Chen**, Angela Yao
+
 # ACCOMPLISHMENTS 
 - Codeforces 
 	- Candidate master (user rate: top 4%)
@@ -55,6 +58,7 @@
 - Google Kick Start
     - Round A 2021: ranking 470 out of 19850 (top 2.3%)
     - Round C 2021: ranking 342 out of 12200 (top 2.8%)
+    - Round E 2021: ranking 149 out of 6950 (top 2.1%)
 - ACM International Collegiate Programming Contest
 	- Asia Regional Contest 
 	- Bronze Medal
