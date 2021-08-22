@@ -47,7 +47,7 @@
 - A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing (DASFAA 19)
 	- Dongjun Zhai, An Liu, **Shicheng Chen**, Zhixu Li, and Xiangliang Zhang
 
-- SemiHand: Semi-supervised Hand Pose Estimation with Consistency (ICCV 21)
+- SemiHand: Semi-supervised Hand Pose Estimation with Consistency (**Poster** ICCV 21)
 	- Linlin Yang, **Shicheng Chen**, Angela Yao
 
 # ACCOMPLISHMENTS 
