@@ -1,5 +1,11 @@
 # Shicheng Chen
 
+## Table of Contents
+- [Experience](#experience)
+- [Achievements](#achievements)
+- [Certifications](#certifications)
+- [Publications](#publications)
+
 ## Experience
 - **Researcher** - NetVirta, Inc. · Full-time (Jan 2022 - Present)
 - **Research Assistant** - National University of Singapore · Full-time (Oct 2018 - Dec 2021)
