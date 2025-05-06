@@ -16,7 +16,7 @@
   
   ![Leetcode](data/leetcode.png)
 
-- **[Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)**
+- **[Google Kick Start](https://github.com/ShichengChen/ShichengChen.github.io/blob/master/0000000000435bad.pdf)**
   - Round H 2022: ranking 103 out of 5500 (top 1.8%)
   - Round E 2021: ranking 147 out of 6950 (top 2.1%)
   - Round D 2022: ranking 172 out of 8100 (top 2.1%)
@@ -24,7 +24,7 @@
   ![Google Kick Start 2022](data/Google%20Kick%20Start%202022.png)
   ![Google Kick Start 2021](data/Google%20Kick%20Start%202021.png)
 
-- **[Codeforces](https://codeforces.com/)**
+- **[Codeforces](https://codeforces.com/profile/ShichengChen)**
   - Associated with National University of Singapore
   - Codeforces Round 664: official ranking 37 out of 12974 (top 0.2%)
   - Codeforces Round 653: official ranking 11 out of 11033 (top 0.09%)
@@ -34,11 +34,11 @@
   ![Codeforces](data/CF.png)
 
 ## Certifications
-- **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/YourCertificateID)** 
+- **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/SEZBFGJNHBLY?utm_product=course)** 
   
   ![Generative AI Certification](data/Generative%20AI%20with%20Large%20Language%20Models%20certification.png)
 
-- **[Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/certificate/YourCertificateID)**
+- **[Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/2LPHTK9AJBV1?utm_product=course)**
   
   ![NLP Certification](data/Natural%20Language%20Processing%20with%20Attention%20Models%20Certification.png)
 
