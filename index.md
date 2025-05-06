@@ -16,7 +16,7 @@
   
   ![Leetcode](data/leetcode.png)
 
-- **[Google Kick Start](https://github.com/ShichengChen/ShichengChen.github.io/blob/master/0000000000435bad.pdf)**
+- **Google Kick Start**
   - Round H 2022: ranking 103 out of 5500 (top 1.8%)
   - Round E 2021: ranking 147 out of 6950 (top 2.1%)
   - Round D 2022: ranking 172 out of 8100 (top 2.1%)
