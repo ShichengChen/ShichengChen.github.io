@@ -1,81 +1,50 @@
 # Shicheng Chen
 
-# EXPERIENCES
-- National University of Singapore
-    - Research Assistant
-    - School of Computing
-    - Oct 2018 - Present
+## Experience
+- **Researcher** - NetVirta, Inc. · Full-time (Jan 2022 - Present)
+- **Research Assistant** - National University of Singapore · Full-time (Oct 2018 - Dec 2021)
+- **Project Officer** - Nanyang Technological University · Full-time (Oct 2017 - Sep 2018) · 1 yr Singapore
 
-- Nanyang Technological University
-    - Project Officer
-    - School of Computer Science and Engineering
-    - Oct 2017 - Sep 2018
+## Achievements
+- **[Leetcode Weekly Contest](https://leetcode.com/u/c337134154/)** - Issued by LeetCode · Nov 2024 contest user rate: 0.28%
+  
+  ![Leetcode](data/leetcode.png)
 
-- Teaching assistant
-    - Neural Networks and Deep Learning (CS5242)
-    - National University of Singapore
-    - Jan 2021 - May 2021
+- **[Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)** - Issued by Google · Jan 2022
+  - Round H 2022: ranking 103 out of 5500 (top 1.8%)
+  - Round E 2021: ranking 147 out of 6950 (top 2.1%)
+  - Round D 2022: ranking 172 out of 8100 (top 2.1%)
+  
+  ![Google Kick Start 2022](data/Google%20Kick%20Start%202022.png)
+  ![Google Kick Start 2021](data/Google%20Kick%20Start%202021.png)
 
-# EDUCATION
-- Tianjin University
-    - Bachelor of Engineering
-    - Software Engineering
-    - Sep 2013 - July 2017
-- National University of Singapore
-    - Master of Science
-    - Computer Science
-    - Dec 2019 - Present
+- **[Codeforces](https://codeforces.com/)** - Issued by Codeforces · Jan 2020
+  - Associated with National University of Singapore
+  - Codeforces Round 664: official ranking 37 out of 12974 (top 0.2%)
+  - Codeforces Round 653: official ranking 11 out of 11033 (top 0.09%)
+  - Codeforces Round 652: official ranking 71 out of 14647 (top 0.48%)
+  - Codeforces Round 629: official ranking 149 out of 15861 (top 0.93%)
+  
+  ![Codeforces](data/CF.png)
 
+## Certifications
+- **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/YourCertificateID)** 
+  
+  ![Generative AI Certification](data/Generative%20AI%20with%20Large%20Language%20Models%20certification.png)
 
-# SKILLS
-- Familiar with C/C++, Python
-- Proficiency in data structures and algorithms
-- Have great passion for Competitive Programming
-- Machine learning
-    
+- **[Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/certificate/YourCertificateID)**
+  
+  ![NLP Certification](data/Natural%20Language%20Processing%20with%20Attention%20Models%20Certification.png)
 
-# PUBLICATIONS
-- Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive Ultrasound Images (**Oral**, ICASSP 18)
-	- **Shicheng Chen**, Yifeng Zheng, Chengrui Wu, Guorui Sheng, Pierre Roussel, Bruce Denby
+## Publications
+- **[Direct, Near Real Time Animation of a 3D Tongue Model Using Non-Invasive Ultrasound Images](https://ieeexplore.ieee.org/abstract/document/8462096)** (**Oral**, ICASSP 18)
 
-- Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D Convolutional Neural Networks (**Poster**,ICASSP 18)
-	- Chengrui Wu, **Shicheng Chen**, Guorui Sheng, Pierre Roussel, Bruce Denby
+- **[Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8461957)** (**Poster**, ICASSP 18)
 
-- Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features (SDM 19)
-	- Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, **Shicheng Chen**, Peilan He
-	
-- A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing (DASFAA 19)
-	- Dongjun Zhai, An Liu, **Shicheng Chen**, Zhixu Li, and Xiangliang Zhang
+- **[Bus Travel Speed Prediction using Attention Network of Heterogeneous Correlation Features](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.9)** (SDM 19)
 
-- SemiHand: Semi-supervised Hand Pose Estimation with Consistency (**Poster** ICCV 21)
-	- Linlin Yang, **Shicheng Chen**, Angela Yao
+- **[A Sequential Spatial Temporal Resnet for Task Prediction in Spatial Crowdsourcing](https://link.springer.com/chapter/10.1007/978-3-030-18576-3_16)** (DASFAA 19)
 
-# ACCOMPLISHMENTS 
-- Codeforces 
-	- Candidate master (user rate: top 4%)
-	- Codeforces Round #664 (Div. 2): ranking 38 out of 13064 (top 0.2%)
-	- Codeforces Round #653 (Div. 3): ranking 11 out of 11033
-- Google Kick Start
-    - Round A 2021: ranking 470 out of 19850 (top 2.3%)
-    - Round C 2021: ranking 342 out of 12200 (top 2.8%)
-    - Round E 2021: ranking 147 out of 6950 (top 2.1%)
-- ACM International Collegiate Programming Contest
-	- Asia Regional Contest 
-	- Bronze Medal
-- The Beauty of Programming
-	- ranking 250 out of 7764 (top 3.2%)
-	- Hosted by Microsoft: 2015
+- **[SemiHand: Semi-supervised Hand Pose Estimation with Consistency](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SemiHand_Semi-Supervised_Hand_Pose_Estimation_With_Consistency_ICCV_2021_paper.pdf)** (**Poster** ICCV 21)
 
-# PROJECTS
-- Apache SINGA, an open-source deep-learning library
-    - Make SINGA support ONNX, an open format to represent deep learning models backed by Facebook, AWS, and Microsoft ([merged pull request](https://github.com/apache/incubator-singa/pull/444))
-
-- [GPU memory management](https://github.com/ShichengChen/ShichengChen.github.io/tree/master/GPUMemoryManagementforNeuralNetworksUsingDeepQ-Network.pdf)
-    - Achieve SINGA 20-30% GPU memory usage save with only 2-5% extra computation time for popular networks such as ResNet, UNet, and VGG
-    
-- [Audio Source Separation](https://github.com/ShichengChen/Audio-Source-Separation)
-    - Obtain accompaniment and vocals from mixed music.
-   
-- Multiview Hand Dataset
-    - Annotate the hand pose for the hand dataset by semi-supervised learning.
-    - Provide hand 3D models, depth images, color images, and camera parameters.
+- **[Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation](https://arxiv.org/abs/2112.06389)** (BMVC 21)
