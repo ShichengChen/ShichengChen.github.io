@@ -12,11 +12,11 @@
 - **Project Officer** - Nanyang Technological University · Full-time (Oct 2017 - Sep 2018) · 1 yr Singapore
 
 ## Achievements
-- **[Leetcode Weekly Contest](https://leetcode.com/u/c337134154/)** - Issued by LeetCode · Nov 2024 contest user rate: 0.28%
+- **[Leetcode Weekly Contest](https://leetcode.com/u/c337134154/)**
   
   ![Leetcode](data/leetcode.png)
 
-- **[Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)** - Issued by Google · Jan 2022
+- **[Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)**
   - Round H 2022: ranking 103 out of 5500 (top 1.8%)
   - Round E 2021: ranking 147 out of 6950 (top 2.1%)
   - Round D 2022: ranking 172 out of 8100 (top 2.1%)
@@ -24,7 +24,7 @@
   ![Google Kick Start 2022](data/Google%20Kick%20Start%202022.png)
   ![Google Kick Start 2021](data/Google%20Kick%20Start%202021.png)
 
-- **[Codeforces](https://codeforces.com/)** - Issued by Codeforces · Jan 2020
+- **[Codeforces](https://codeforces.com/)**
   - Associated with National University of Singapore
   - Codeforces Round 664: official ranking 37 out of 12974 (top 0.2%)
   - Codeforces Round 653: official ranking 11 out of 11033 (top 0.09%)
