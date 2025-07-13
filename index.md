@@ -34,6 +34,10 @@
   ![Codeforces](data/CF.png)
 
 ## Certifications
+- **[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/certificate/UC-e215edf1-84f6-4e04-9c24-891eaf0d2249/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**
+  ![Docker and Kubernetes Certification](data/Docker and Kubernetes The Complete Guide.jpg)
+
+
 - **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/SEZBFGJNHBLY?utm_product=course)** 
   
   ![Generative AI Certification](data/Generative%20AI%20with%20Large%20Language%20Models%20certification.png)
