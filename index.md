@@ -17,9 +17,6 @@
   ![Leetcode](data/leetcode.png)
 
 - **Google Kick Start**
-  - Round H 2022: ranking 103 out of 5500 (top 1.8%)
-  - Round E 2021: ranking 147 out of 6950 (top 2.1%)
-  - Round D 2022: ranking 172 out of 8100 (top 2.1%)
   
   ![Google Kick Start 2022](data/Google%20Kick%20Start%202022.png)
   ![Google Kick Start 2021](data/Google%20Kick%20Start%202021.png)
